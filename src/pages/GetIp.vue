@@ -11,7 +11,7 @@
 </template>
 <script>
 export default {
-  name: "SearchIp",
+  name: "GetIp",
   data() {
     return {
       ipAddress: "Click the button",
